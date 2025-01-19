@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sinku-03
 - 👀 I’m interested in python and machine learning
 - 🌱 I’m currently learning node js
-- 💞️ I’m looking to collaborate on backend development
+- 💞️ I’m looking to collaborate on web  development
 - 📫 How to reach me viveksinku233@gmail.com
 - ⚡ Fun fact: i'm starting fresh
 
